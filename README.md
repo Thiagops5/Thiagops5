@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:22c55e&text=Thiago%20Pacheco&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20%C2%B7%20Node.js%20%C2%B7%20React%20%C2%B7%20Next.js&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Thiago Pacheco"/>
 
 <a href="https://github.com/Thiagops5">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full-Stack+em+busca+da+primeira+vaga+%F0%9F%9A%80;APIs+REST+seguras+com+Node.js+%2B+JWT;Interfaces+modernas+com+React+%2B+Next.js+%2B+TypeScript;Do+banco+de+dados+ao+deploy+na+Vercel" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full-Stack+em+busca+da+primeira+vaga+%F0%9F%9A%80;APIs+REST+seguras+com+Node.js+%2B+JWT;Interfaces+modernas+com+React+%2B+Next.js+%2B+TypeScript;Do+banco+de+dados+ao+deploy" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -20,8 +20,6 @@
 ## 👨‍💻 Sobre mim
 
 Sou **desenvolvedor full-stack** e estudante de **Análise e Desenvolvimento de Sistemas (UNIPAR)**. Construo **APIs REST seguras** com Node.js e **interfaces modernas** com React e Next.js, cuidando do banco de dados ao deploy.
-
-[![Aberto a oportunidades](https://img.shields.io/badge/status-aberto%20a%20oportunidades-22c55e?style=for-the-badge&logo=githubsponsors&logoColor=white)](mailto:thiagopacheco303@gmail.com)
 
 - 💼 **Buscando minha primeira vaga** como desenvolvedor (estágio ou júnior), front, back ou full-stack
 - 🔐 Pratico **autenticação de verdade**: JWT com refresh token e rotação, cookies `httpOnly`, análise de riscos de armazenamento de token
@@ -53,16 +51,16 @@ Sou **desenvolvedor full-stack** e estudante de **Análise e Desenvolvimento de 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" alt="Front-end"/>
 
 **Back-end**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,python&perline=4" alt="Back-end"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,python&perline=5" alt="Back-end"/>
 
 **Linguagens de base e dados**<br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,pandas&perline=5" alt="C, C++, Java, Python e Pandas"/>
 
 **Bancos de dados**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite&perline=2" alt="PostgreSQL e SQLite"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=3" alt="PostgreSQL, MySQL e SQLite"/>
 
 **Ferramentas e deploy**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vercel&perline=3" alt="Git, GitHub e Vercel"/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,aws,terraform&perline=5" alt="Git, GitHub, Vercel, AWS e Terraform"/>
 
 <sub>Também no dia a dia: JWT · Sequelize · Axios · json-server · Programação Orientada a Objetos · Análise de dados com Pandas</sub>
 
@@ -81,6 +79,7 @@ Sou **desenvolvedor full-stack** e estudante de **Análise e Desenvolvimento de 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:22c55e,100:0f2027&section=footer" width="100%" alt=""/>
+
 
 
 
