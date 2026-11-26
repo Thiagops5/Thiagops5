@@ -1,41 +1,73 @@
-# Olá! Eu sou o Thiago 👋
+﻿<div align="center">
 
-Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas, focado em construir aplicações web, mobile e soluções voltadas para AgriTech.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:22c55e&text=Thiago%20Pacheco&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20%C2%B7%20Node.js%20%C2%B7%20React%20%C2%B7%20Next.js&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Thiago Pacheco"/>
 
-### 🚀 Tecnologias e Ferramentas
+<a href="https://github.com/Thiagops5">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full-Stack+em+busca+da+primeira+vaga+%F0%9F%9A%80;APIs+REST+seguras+com+Node.js+%2B+JWT;Interfaces+modernas+com+React+%2B+Next.js+%2B+TypeScript;Do+banco+de+dados+ao+deploy,+com+Docker+e+AWS" alt="Typing SVG"/>
+</a>
 
-**Linguagens & Frameworks:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Banco de Dados, Cloud & DevOps:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thiagops5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagops5&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
-### 📫 Onde me encontrar
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-pacheco-tech)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagopacheco303@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagopacheco92)
+![Visitas](https://komarev.com/ghpvc/?username=Thiagops5&style=for-the-badge&color=22c55e&label=VISITAS)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou **desenvolvedor full-stack** e estudante de **Análise e Desenvolvimento de Sistemas (UNIPAR)**. Construo **APIs REST seguras** com Node.js e **interfaces modernas** com React e Next.js, cuidando do banco de dados ao deploy.
+
+[![Aberto a oportunidades](https://img.shields.io/badge/ABERTO_A_OPORTUNIDADES-22c55e?style=for-the-badge)](mailto:thiagopacheco303@gmail.com)
+
+- 💼 **Buscando minha primeira vaga** como desenvolvedor (estágio ou júnior), front, back ou full-stack
+- 🔐 Pratico **autenticação de verdade**: JWT com refresh token e rotação, cookies `httpOnly`, análise de riscos de armazenamento de token
+- 🧩 **Projetos completos e documentados**: API + front-end integrados, com instruções para rodar e decisões de segurança explicadas
+- 🚢 Já entreguei **software em produção para um cliente real** (projeto de extensão da UNIPAR)
+- 🌱 Meu TCC, o **Agro Nezer**, é um sistema com regras de negócio e financeiras reais: um bom exemplo de como transformo um problema complexo em software
+- 📫 Vamos conversar? Meus contatos estão logo acima
+---
+
+## ⭐ Projetos em destaque
+
+<div align="center">
+<table>
+<tr><td><a href="https://github.com/Thiagops5/agro-nezer"><img src="https://raw.githubusercontent.com/Thiagops5/Thiagops5/main/assets/card-agro-nezer.svg" alt="agro-nezer" width="440"/></a></td><td><a href="https://github.com/Thiagops5/jwt-api"><img src="https://raw.githubusercontent.com/Thiagops5/Thiagops5/main/assets/card-jwt-api.svg" alt="jwt-api" width="440"/></a></td></tr>
+<tr><td><a href="https://github.com/Thiagops5/jwt-app"><img src="https://raw.githubusercontent.com/Thiagops5/Thiagops5/main/assets/card-jwt-app.svg" alt="jwt-app" width="440"/></a></td><td><a href="https://github.com/Thiagops5/api-crud-express"><img src="https://raw.githubusercontent.com/Thiagops5/Thiagops5/main/assets/card-api-crud-express.svg" alt="api-crud-express" width="440"/></a></td></tr>
+<tr><td><a href="https://github.com/Thiagops5/Painel-de-Controle-de-Tempo"><img src="https://raw.githubusercontent.com/Thiagops5/Thiagops5/main/assets/card-painel-de-controle-de-tempo.svg" alt="Painel-de-Controle-de-Tempo" width="440"/></a></td><td><a href="https://github.com/Thiagops5/CiaMetal"><img src="https://raw.githubusercontent.com/Thiagops5/Thiagops5/main/assets/card-ciametal.svg" alt="CiaMetal" width="440"/></a></td></tr>
+</table>
+</div>
+
+> 💬 `jwt-api` + `jwt-app` formam um sistema completo. Foi onde mais aprendi sobre segurança de sessão e por que guardar token em cookie `httpOnly` e não em `localStorage`.
+
+---
+
+## 🧰 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,java,python,html,css,tailwind&perline=11" alt="Linguagens e frameworks"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,aws,terraform,git,github,vercel&perline=9" alt="Banco, cloud e DevOps"/>
+
+</div>
+
+---
+
+## 📊 GitHub em números
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Thiagops5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagops5&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" alt="Top langs"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=Thiagops5&theme=tokyonight&hide_border=true" height="150" alt="Streak"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:22c55e,100:0f2027&section=footer" width="100%" alt=""/>
+
+
